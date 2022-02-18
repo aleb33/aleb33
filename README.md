@@ -22,6 +22,7 @@ I am also thinking of doing a double degree with [Kedge Business School](https:/
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/-mouchebousquet@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mouchebousquet@gmail.com
 [linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-bousquet-5620a3224
+[protonmail_badge]: https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white
 
 
 <!-- profile links -->
