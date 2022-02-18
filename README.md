@@ -4,9 +4,9 @@
 
 # Hi 👋, I'm [Alexandre Bousquet][github_profile]
 
-I'm a french student at [University of Bordeaux](https://www.u-bordeaux.com) and I work on computer science 💻 & mathematics 📚.
+I'm a french student at [Polytech Marseille](https://polytech.univ-amu.fr/en/faculty) and I work on computer science 💻 & mathematics 📚.
 
- - I love sport ⚽️, music 🎼 and travel 🛫.
+ - I love sport 🥊, music 🎼 and travel 🛫.
  - I enjoy learning new languages and tools.
  - I want to become a cybersecurity engineer 🖥.
 
