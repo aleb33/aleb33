@@ -5,7 +5,6 @@
 # Hi 👋, I'm [Alexandre Bousquet][github_profile]
 
 I'm a french student at [Polytech Marseille](https://polytech.univ-amu.fr/en/faculty) and I am preparing my computer science engineering degree.
-I am also thinking of doing a double degree with [Kedge Business School](https://student.kedge.edu) which is a partner of our school.
 
  - I love sport 🥊, music 🎼 and travel 🛫.
  - I enjoy learning new languages and tools.
