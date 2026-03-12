@@ -12,7 +12,7 @@ I'm a french graduate student from [Polytech Marseille](https://polytech.univ-am
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:mouchebousquet@gmail.com) [![protonmail_badge]](mailto:alebousquet@protonmail.com) [![linkedin_badge]](https://www.linkedin.com/in/alexandre-bousquet-5620a3224/) [![visitors](https://komarev.com/ghpvc/?username=aleb33&style=flat-square)](https://github.com/aleb33)
+[![gmail_badge]](mailto:mouchebousquet@gmail.com) [![protonmail_badge]](mailto:alebousquet@protonmail.com) [![linkedin_badge]](https://www.linkedin.com/in/alexandre-bousquet-5620a3224/)
 
 
 <h3 align="left">Languages and Tools:</h3>
