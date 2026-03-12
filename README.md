@@ -4,15 +4,15 @@
 
 # Hi 👋, I'm [Alexandre Bousquet][github_profile]
 
-I'm a french student at [Polytech Marseille](https://polytech.univ-amu.fr/en/faculty) and I am preparing my computer science engineering degree.
+I'm a french graduate student from [Polytech Marseille](https://polytech.univ-amu.fr/en/faculty).
 
  - I love sport 🥊, music 🎼 and travel 🛫.
  - I enjoy learning new languages and tools.
- - I want to become a cybersecurity engineer 🖥.
+ - I want to become a data architect.
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:mouchebousquet@gmail.com) [![protonmail_badge]](mailto:alebousquet@protonmail.com) [![linkedin_badge]][linkedin] [![visitors](https://komarev.com/ghpvc/?username=aleb33&style=flat-square)](https://github.com/aleb33)
+[![gmail_badge]](mailto:mouchebousquet@gmail.com) [![protonmail_badge]](mailto:alebousquet@protonmail.com) [![linkedin_badge]](https://www.linkedin.com/in/alexandre-bousquet-5620a3224/) [![visitors](https://komarev.com/ghpvc/?username=aleb33&style=flat-square)](https://github.com/aleb33)
 
 
 <h3 align="left">Languages and Tools:</h3>
